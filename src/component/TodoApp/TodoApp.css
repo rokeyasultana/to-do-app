@@ -1,0 +1,57 @@
+img{
+    margin-top: 5%;
+}
+
+#text{
+    color: black;
+    border: 1px dotted black;
+    height: 30px;
+    width: 250px;
+}
+#text:hover{
+    border: 1px solid rgb(2, 255, 2) ;
+}
+.btn{
+ background-color: rgb(128, 239, 17);
+ border: 1px solid rgb(65, 214, 248);
+ height: 35px;
+ width: 50px;
+ font-weight: 700;
+}
+.btn:hover{
+    background-color: rgb(60, 209, 60);
+    color: white;
+font-weight: 700;
+}
+.list{
+    border: 2px solid rgb(16, 248, 248);
+    background-color: black;
+    color: azure;
+    margin: auto;
+    width: 50%;
+    text-decoration: none;
+    list-style: none;
+}
+
+.crossText{
+text-decoration: line-through;
+border: 2px solid rgb(16, 248, 248);
+background-color: rgb(66, 238, 43);
+color: rgb(12, 13, 13);
+font-style: italic;
+margin: auto;
+width: 50%;
+list-style: none;
+}
+.delete{
+    border-radius: 10px;
+    background-color: red;
+    color: aliceblue;
+    margin-left: 15px;
+}
+.complete{
+    border-radius: 10px;
+    background-color: rgb(17, 224, 14);
+    color: aliceblue;
+    margin-left: 15px;
+}

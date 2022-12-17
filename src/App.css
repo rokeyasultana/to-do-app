@@ -1,7 +1,15 @@
 .App {
   text-align: center;
 }
-
+body{
+  background-image: url(https://i.pinimg.com/originals/09/0e/43/090e438d16bcbf95fbf58a7332b1d774.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.todo{
+  color: rgb(69, 70, 71);
+  
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
